@@ -2,7 +2,7 @@
 
 Este projeto é um sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica.
 
-![Diagrama do Banco de Dados]([https://github.com/Pablo-seixas/Escola_Dio/blob/main/escola.png)](https://github.com/Pablo-seixas/Oficina_Dio/blob/main/oficina_dio.png)
+![Diagrama do Banco de Dados]([https://github.com/Pablo-seixas/Escola_Dio/blob/main/escola.png)](https://github.com/Pablo-seixas/Oficina_Dio/blob/main/oficina_dio.png).
 
 ## Descrição
 
